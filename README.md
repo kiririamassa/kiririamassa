@@ -1,7 +1,7 @@
 #  Sobre Mim 
 - 👋 Hi, I’m @kiririamassa  
 - 🔭meu email de contato é erick.previatto.souza@escola.pr.gov.br
-- 👀 I’m interested in  aprender a programar e novas linguagens.
+- 👀 IEu estou interessado em aprender a programar e novas linguagens.
 - 🌱 I’m currently learning  a programar atualmente  a linguagem de JavaScrip e Scratch
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
